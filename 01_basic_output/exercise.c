@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Exercise 1: Basic Output
 int main()
 {
     //Basic output
