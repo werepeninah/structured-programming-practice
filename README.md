@@ -1,4 +1,4 @@
-# Structured Programming Practice - C Assignments
+# Structured Programming Portfolio
 
 ## Exercise 1 - Basic Output
 Source: Deitel & Deitel, C How to Program, 9th Edition, Chapter 2, Exercise 2.16
