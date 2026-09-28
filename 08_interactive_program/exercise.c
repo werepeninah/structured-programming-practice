@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Exercise 8: Campus Stationery Shop
 int main()
 {
     int item_choice, quantity, item_price, total = 0, items_bought = 0 ;
